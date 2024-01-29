@@ -1,0 +1,5 @@
+{
+	"name": "Restaurant",
+	"objectives": ["_obj_money"],
+	"rewards": ["coredishsavory1misc_rew", "coredishsavory2burger_rew", "coredishsavory3chicken_rew", "coreside1_rew", "coreside2_rew", "coresweet1_rew", "coresweet2_rew", "coresweet3_rew"]
+}

@@ -1,0 +1,34 @@
+{
+	"content": {
+
+"shipwright_obj_logtag": {
+	"type": "item_tag",
+	"content": "minecraft:logs",
+	"rarity": "COMMON",
+	"amount": {"min": 32,"max": 64},
+	"unitWorth": 50},
+"shipwright_obj_planktag": {
+	"type": "item_tag",
+	"content": "minecraft:planks",
+	"rarity": "COMMON",
+	"amount": {"min": 32,"max": 64},
+	"unitWorth": 10},
+"shipwright_obj_wooltag": {
+	"type": "item_tag",
+	"content": "minecraft:wool",
+	"rarity": "UNCOMMON",
+	"amount": {"min": 16,"max": 64},
+	"unitWorth": 100},
+"shipwright_obj_trapdoortag": {
+	"type": "item_tag",
+	"content": "minecraft:wooden_trapdoors",
+	"rarity": "UNCOMMON",
+	"amount": {"min": 16,"max": 64},
+	"unitWorth": 500}
+
+
+
+
+	}
+
+}

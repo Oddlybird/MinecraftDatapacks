@@ -1,0 +1,35 @@
+{"content": {
+
+ "money_primary_currency": {
+   "type": "item",
+   "content": "minecraft:emerald",
+   "rarity": "COMMON",
+   "amount": {"min": 1, "max": 4},
+   "forbids": [{"type": "item", "content": "minecraft:emerald"}],
+   "weightMult": 10,
+   "unitWorth": 1000
+ },
+
+ "money_primary_currency_rare_bargain": {
+   "type": "item",
+   "content": "minecraft:emerald",
+   "rarity": "UNCOMMON",
+   "amount": {"min": 1, "max": 4},
+   "forbids": [{"type": "item", "content": "minecraft:emerald"}],
+   "weightMult": 2,
+   "unitWorth": 800
+ },
+
+ "money_primary_currency_extortion": {
+   "type": "item",
+   "content": "minecraft:emerald",
+   "rarity": "RARE",
+   "amount": {"min": 1, "max": 4},
+   "forbids": [{"type": "item", "content": "minecraft:emerald"}],
+   "weightMult": 1,
+   "unitWorth": 500
+ }
+
+
+  }
+}

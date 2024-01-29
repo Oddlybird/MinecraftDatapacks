@@ -1,0 +1,112 @@
+{
+"content": {
+
+"basic_butter": {
+	"type": "item",
+	"content": "pamhc2foodcore:butteritem",
+	"amount": {"min": 4, "max": 16},
+	"forbids": [{"type": "item", "content": "pamhc2foodcore:freshmilkitem"}],
+	"unitWorth": 250,
+	"weightMult": 0.06},
+"basic_cheese": {
+	"type": "item",
+	"content": "pamhc2foodcore:cheeseitem",
+	"amount": {"min": 1, "max": 8},
+	"forbids": [{"type": "item", "content": "pamhc2foodcore:freshmilkitem"}],
+	"unitWorth": 500,
+	"weightMult": 0.02},
+"basic_cream": {
+	"type": "item",
+	"content": "pamhc2foodcore:creamitem",
+	"amount": {"min": 4, "max": 16},
+	"forbids": [{"type": "item", "content": "pamhc2foodcore:freshmilkitem"}],
+	"unitWorth": 500,
+	"weightMult": 0.01},
+"basic_flour": {
+	"type": "item",
+	"content": "pamhc2foodcore:flouritem",
+	"amount": {"min": 8, "max": 64},
+	"forbids": [{"type": "item", "content": "pamhc2foodcore:flouritem"}],
+	"unitWorth": 50,
+	"weightMult": 0.5},
+"basic_fresh_milk": {
+	"type": "item",
+	"content": "pamhc2foodcore:freshmilkitem",
+	"amount": {"min": 1, "max": 16},
+	"forbids": [{"type": "item", "content": "pamhc2foodcore:freshmilkitem"}],
+	"unitWorth": 500,
+	"weightMult": 0.5},
+"basic_fresh_water": {
+	"type": "item",
+	"content": "pamhc2foodcore:freshwateritem",
+	"forbids": [{"type": "item", "content": "pamhc2foodcore:freshwateritem"}],
+	"amount": {"min": 4, "max": 16},
+	"unitWorth": 50,
+	"weightMult": 0.5},
+"basic_pasta": {
+	"type": "item",
+	"content": "pamhc2foodcore:pastaitem",
+	"amount": {"min": 4, "max": 16},
+	"forbids": [{"type": "item", "content": "pamhc2foodcore:flouritem"}],
+	"unitWorth": 100,
+	"weightMult": 0.02},
+"basic_dough": {
+	"type": "item",
+	"content": "pamhc2foodcore:doughitem",
+	"amount": {"min": 4, "max": 16},
+	"forbids": [{"type": "item", "content": "pamhc2foodcore:flouritem"}],
+	"unitWorth": 400,
+	"weightMult": 0.25},
+"basic_batter": {
+	"type": "item",
+	"content": "pamhc2foodcore:batteritem",
+	"amount": {"min": 4, "max": 16},
+	"forbids": [{"type": "item", "content": "pamhc2foodcore:flouritem"}],
+	"unitWorth": 600,
+	"weightMult": 0.1},
+"basic_salt": {
+	"type": "item",
+	"content": "pamhc2foodcore:saltitem",
+	"forbids": [{"type": "item", "content": "pamhc2foodcore:saltitem"}],
+	"amount": {"min": 4, "max": 32},
+	"unitWorth": 50,
+	"weightMult": 0.15},
+"basic_cooking_oil": {
+	"type": "item",
+	"content": "pamhc2foodcore:cookingoilitem",
+	"amount": {"min": 4, "max": 16},
+	"unitWorth": 250,
+	"forbids": [{"type": "item", "content": "pamhc2foodcore:flouritem"}],
+	"weightMult": 0.2},
+"basic_stock": {
+	"type": "item",
+	"content": "pamhc2foodcore:stockitem",
+	"amount": {"min": 4, "max": 16},
+	"unitWorth": 500,
+	"forbids": [{"type": "item", "content": "pamhc2foodcore:flouritem"}],
+	"weightMult": 0.1},
+"basic_vinegar": {
+	"type": "item",
+	"content": "pamhc2foodcore:vinegaritem",
+	"amount": {"min": 4, "max": 16},
+	"unitWorth": 500,
+	"forbids": [{"type": "item", "content": "pamhc2foodcore:flouritem"}],
+	"weightMult": 0.1},
+"basic_bread": {
+	"type": "item",
+	"content": "minecraft:bread",
+	"amount": {"min": 4, "max": 16},
+	"forbids": [{"type": "item", "content": "pamhc2foodcore:flouritem"}],
+	"unitWorth": 250,
+	"weightMult": 0.5},
+"basic_toast": {
+	"type": "item",
+	"content": "pamhc2foodcore:toastitem",
+	"amount": {"min": 4, "max": 16},
+	"forbids": [{"type": "item", "content": "pamhc2foodcore:flouritem"}],
+	"unitWorth": 500,
+	"weightMult": 0.1}
+
+
+	}
+}

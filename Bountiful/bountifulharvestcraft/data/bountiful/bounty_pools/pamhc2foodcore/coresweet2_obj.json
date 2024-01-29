@@ -1,0 +1,67 @@
+{
+"content": {
+
+"sweet_cheesecake": {
+	"type": "item",
+	"content": "pamhc2foodcore:cheesecakeitem",
+	"amount": {"min": 1, "max": 4},
+	"unitWorth": 1000,
+	"weightMult": 0.01},
+"sweet_cake": {
+	"type": "item",
+	"content": "minecraft:cake",
+	"amount": {"min": 1, "max": 4},
+	"unitWorth": 2000,
+	"weightMult": 0.01},
+"sweet_pumpkincheesecake": {
+	"type": "item",
+	"content": "pamhc2foodcore:pumpkincheesecakeitem",
+	"amount": {"min": 1, "max": 4},
+	"unitWorth": 1500,
+	"weightMult": 0.01},
+"sweet_pumpkinpie": {
+	"type": "item",
+	"content": "minecraft:pumpkin_pie",
+	"amount": {"min": 1, "max": 4},
+	"unitWorth": 1000,
+	"weightMult": 0.01},
+"sweet_pumpkincupcake": {
+	"type": "item",
+	"content": "pamhc2foodcore:pumpkincupcakeitem",
+	"amount": {"min": 1, "max": 16},
+	"unitWorth": 250,
+	"weightMult": 0.01},
+"sweet_carrotcupcake": {
+	"type": "item",
+	"content": "pamhc2foodcore:carrotcupcakeitem",
+	"amount": {"min": 1, "max": 16},
+	"unitWorth": 250,
+	"weightMult": 0.01},
+"sweet_carrotcake": {
+	"type": "item",
+	"content": "pamhc2foodcore:carrotcakeitem",
+	"amount": {"min": 1, "max": 4},
+	"unitWorth": 1000,
+	"weightMult": 0.01},
+"sweet_sweetberrypie": {
+	"type": "item",
+	"content": "pamhc2foodcore:sweetberrypieitem",
+	"amount": {"min": 1, "max": 4},
+	"unitWorth": 1000,
+	"weightMult": 0.01},
+"sweet_glowberrypie": {
+	"type": "item",
+	"content": "pamhc2foodcore:glowberrypieitem",
+	"amount": {"min": 1, "max": 4},
+	"unitWorth": 2000,
+	"weightMult": 0.01},
+"sweet_applepie": {
+	"type": "item",
+	"content": "pamhc2foodcore:applepieitem",
+	"amount": {"min": 1, "max": 4},
+	"unitWorth": 1000,
+	"weightMult": 0.01}
+
+
+	}
+}

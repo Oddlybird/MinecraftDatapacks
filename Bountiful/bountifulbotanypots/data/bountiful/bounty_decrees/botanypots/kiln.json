@@ -1,0 +1,5 @@
+{
+	"name": "Kiln",
+	"objectives": ["_all_objs", "kiln_objs"],
+	"rewards": ["_all_rews", "kiln_rews"]
+}

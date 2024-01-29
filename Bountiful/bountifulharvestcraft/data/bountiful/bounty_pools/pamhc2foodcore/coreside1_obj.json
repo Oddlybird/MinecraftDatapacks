@@ -1,0 +1,111 @@
+{
+"content": {
+
+"side_pickledbeets": {
+	"type": "item",
+	"content": "pamhc2foodcore:pickledbeetsitem",
+	"amount": {"min": 1, "max": 4},
+	"unitWorth": 150,
+	"weightMult": 0.01},
+"side_glazedcarrots": {
+	"type": "item",
+	"content": "pamhc2foodcore:glazedcarrotsitem",
+	"amount": {"min": 1, "max": 4},
+	"unitWorth": 150,
+	"weightMult": 0.01},
+"side_fries": {
+	"type": "item",
+	"content": "pamhc2foodcore:friesitem",
+	"amount": {"min": 1, "max": 8},
+	"unitWorth": 200,
+	"weightMult": 0.1},
+"side_mashedpotatoes": {
+	"type": "item",
+	"content": "pamhc2foodcore:mashedpotatoesitem",
+	"amount": {"min": 1, "max": 4},
+	"unitWorth": 200,
+	"weightMult": 0.01},
+"side_bakedpotato": {
+	"type": "item",
+	"content": "minecraft:baked_potato",
+	"amount": {"min": 1, "max": 4},
+	"unitWorth": 200,
+	"weightMult": 0.01},
+"side_bakedpotatobutter": {
+	"type": "item",
+	"content": "pamhc2foodcore:butteredbakedpotatoitem",
+	"amount": {"min": 1, "max": 4},
+	"unitWorth": 250,
+	"weightMult": 0.01},
+"side_potatochips": {
+	"type": "item",
+	"content": "pamhc2foodcore:potatochipsitem",
+	"amount": {"min": 1, "max": 4},
+	"unitWorth": 150,
+	"weightMult": 0.01},
+"side_applesauce": {
+	"type": "item",
+	"content": "pamhc2foodcore:applesauceitem",
+	"amount": {"min": 1, "max": 4},
+	"unitWorth": 100,
+	"weightMult": 0.01},
+"side_carrotbread": {
+	"type": "item",
+	"content": "pamhc2foodcore:carrotbreaditem",
+	"amount": {"min": 1, "max": 4},
+	"unitWorth": 250,
+	"weightMult": 0.01},
+"side_pumpkinbread": {
+	"type": "item",
+	"content": "pamhc2foodcore:pumpkinbreaditem",
+	"amount": {"min": 1, "max": 4},
+	"unitWorth": 250,
+	"weightMult": 0.01},
+"side_caramelmuffin": {
+	"type": "item",
+	"content": "pamhc2foodcore:caramelmuffinitem",
+	"amount": {"min": 1, "max": 4},
+	"unitWorth": 250,
+	"weightMult": 0.01},
+"side_carrotmuffin": {
+	"type": "item",
+	"content": "pamhc2foodcore:carrotmuffinitem",
+	"amount": {"min": 1, "max": 4},
+	"unitWorth": 150,
+	"weightMult": 0.01},
+"side_pumpkinmuffin": {
+	"type": "item",
+	"content": "pamhc2foodcore:pumpkinmuffinitem",
+	"amount": {"min": 1, "max": 4},
+	"unitWorth": 150,
+	"weightMult": 0.01},
+"side_applejellytoast": {
+	"type": "item",
+	"content": "pamhc2foodcore:applejellytoastitem",
+	"amount": {"min": 1, "max": 4},
+	"unitWorth": 150,
+	"weightMult": 0.01},
+"side_glowberryjellytoast": {
+	"type": "item",
+	"content": "pamhc2foodcore:glowberryjellytoastitem",
+	"amount": {"min": 1, "max": 4},
+	"unitWorth": 750,
+	"weightMult": 0.01},
+"side_melonjellytoast": {
+	"type": "item",
+	"content": "pamhc2foodcore:melonjellytoastitem",
+	"amount": {"min": 1, "max": 4},
+	"unitWorth": 200,
+	"weightMult": 0.01},
+"side_sweetberryjellytoast": {
+	"type": "item",
+	"content": "pamhc2foodcore:sweetberryjellytoastitem",
+	"amount": {"min": 1, "max": 4},
+	"unitWorth": 250,
+	"weightMult": 0.01}
+
+
+
+
+	}
+}

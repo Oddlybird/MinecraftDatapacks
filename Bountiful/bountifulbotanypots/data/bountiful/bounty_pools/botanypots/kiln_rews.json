@@ -1,0 +1,217 @@
+{
+	"content": {
+
+"kiln_rews_flowerpot": {
+	"type": "item",
+	"content": "minecraft:flower_pot",
+	"rarity": "COMMON",
+	"amount": {"min": 2,"max": 8},
+	"weightMult": 0.5,
+	"unitWorth": 500
+	},
+"kiln_rews_glass_clear": {
+	"type": "item",
+	"content": "#forge:glass/colorless",
+	"rarity": "UNCOMMON",
+	"amount": {"min": 8,"max": 32},
+	"weightMult": 0.4,
+	"unitWorth": 250
+	},
+"kiln_rews_concrete": {
+	"type": "item",
+	"content": "#forge:concrete",
+	"rarity": "UNCOMMON",
+	"amount": {"min": 8,"max": 32},
+	"weightMult": 0.2,
+	"unitWorth": 250
+	},
+"kiln_rews_sandstone": {
+	"type": "item",
+	"content": "#forge:sandstone",
+	"rarity": "UNCOMMON",
+	"amount": {"min": 8,"max": 32},
+	"weightMult": 0.1,
+	"unitWorth": 200
+	},
+"kiln_rews_dye": {
+	"type": "item",
+	"content": "#forge:dyes",
+	"rarity": "UNCOMMON",
+	"amount": {"min": 4,"max": 8},
+	"weightMult": 0.1,
+	"unitWorth": 200
+	},
+"kiln_rews_glass_any": {
+	"type": "item",
+	"content": "#forge:glass",
+	"rarity": "RARE",
+	"amount": {"min": 8,"max": 32},
+	"weightMult": 0.2,
+	"unitWorth": 450
+	},
+"kiln_rews_brick": {
+	"type": "item",
+	"content": "#forge:ingots/brick",
+	"rarity": "UNCOMMON",
+	"amount": {"min": 8,"max": 32},
+	"weightMult": 0.3,
+	"unitWorth": 200
+	},
+"kiln_rews_terracotta": {
+	"type": "item",
+	"content": "#forge:terracotta",
+	"rarity": "UNCOMMON",
+	"amount": {"min": 8,"max": 32},
+	"weightMult": 0.2,
+	"unitWorth": 500
+	},
+"kiln_rews_black_glazed_terracotta": {
+	"type": "item",
+	"content": "minecraft:black_glazed_terracotta",
+	"rarity": "RARE",
+	"amount": {"min": 4,"max": 16},
+	"weightMult": 0.01,
+	"unitWorth": 500
+	},
+"kiln_rews_white_glazed_terracotta": {
+	"type": "item",
+	"content": "minecraft:white_glazed_terracotta",
+	"rarity": "RARE",
+	"amount": {"min": 4,"max": 16},
+	"weightMult": 0.01,
+	"unitWorth": 500
+	},
+"kiln_rews_gray_glazed_terracotta": {
+	"type": "item",
+	"content": "minecraft:gray_glazed_terracotta",
+	"rarity": "RARE",
+	"amount": {"min": 4,"max": 16},
+	"weightMult": 0.01,
+	"unitWorth": 500
+	},
+"kiln_rews_light_gray_glazed_terracotta": {
+	"type": "item",
+	"content": "minecraft:light_gray_glazed_terracotta",
+	"rarity": "RARE",
+	"amount": {"min": 4,"max": 16},
+	"weightMult": 0.01,
+	"unitWorth": 500
+	},
+"kiln_rews_red_glazed_terracotta": {
+	"type": "item",
+	"content": "minecraft:red_glazed_terracotta",
+	"rarity": "RARE",
+	"amount": {"min": 4,"max": 16},
+	"weightMult": 0.01,
+	"unitWorth": 500
+	},
+"kiln_rews_orange_glazed_terracotta": {
+	"type": "item",
+	"content": "minecraft:orange_glazed_terracotta",
+	"rarity": "RARE",
+	"amount": {"min": 4,"max": 16},
+	"weightMult": 0.01,
+	"unitWorth": 500
+	},
+"kiln_rews_yellow_glazed_terracotta": {
+	"type": "item",
+	"content": "minecraft:yellow_glazed_terracotta",
+	"rarity": "RARE",
+	"amount": {"min": 4,"max": 16},
+	"weightMult": 0.01,
+	"unitWorth": 500
+	},
+"kiln_rews_brown_glazed_terracotta": {
+	"type": "item",
+	"content": "minecraft:brown_glazed_terracotta",
+	"rarity": "RARE",
+	"amount": {"min": 4,"max": 16},
+	"weightMult": 0.01,
+	"unitWorth": 500
+	},
+"kiln_rews_lime_glazed_terracotta": {
+	"type": "item",
+	"content": "minecraft:lime_glazed_terracotta",
+	"rarity": "RARE",
+	"amount": {"min": 4,"max": 16},
+	"weightMult": 0.01,
+	"unitWorth": 500
+	},
+"kiln_rews_green_glazed_terracotta": {
+	"type": "item",
+	"content": "minecraft:green_glazed_terracotta",
+	"rarity": "RARE",
+	"amount": {"min": 4,"max": 16},
+	"weightMult": 0.01,
+	"unitWorth": 500
+	},
+"kiln_rews_cyan_glazed_terracotta": {
+	"type": "item",
+	"content": "minecraft:cyan_glazed_terracotta",
+	"rarity": "RARE",
+	"amount": {"min": 4,"max": 16},
+	"weightMult": 0.01,
+	"unitWorth": 500
+	},
+"kiln_rews_blue_glazed_terracotta": {
+	"type": "item",
+	"content": "minecraft:blue_glazed_terracotta",
+	"rarity": "RARE",
+	"amount": {"min": 4,"max": 16},
+	"weightMult": 0.01,
+	"unitWorth": 500
+	},
+"kiln_rews_light_blue_glazed_terracotta": {
+	"type": "item",
+	"content": "minecraft:light_blue_glazed_terracotta",
+	"rarity": "RARE",
+	"amount": {"min": 4,"max": 16},
+	"weightMult": 0.01,
+	"unitWorth": 500
+	},
+"kiln_rews_purple_glazed_terracotta": {
+	"type": "item",
+	"content": "minecraft:purple_glazed_terracotta",
+	"rarity": "RARE",
+	"amount": {"min": 4,"max": 16},
+	"weightMult": 0.01,
+	"unitWorth": 500
+	},
+"kiln_rews_magenta_glazed_terracotta": {
+	"type": "item",
+	"content": "minecraft:magenta_glazed_terracotta",
+	"rarity": "RARE",
+	"amount": {"min": 4,"max": 16},
+	"weightMult": 0.01,
+	"unitWorth": 500
+	},
+"kiln_rews_pink_glazed_terracotta": {
+	"type": "item",
+	"content": "minecraft:pink_glazed_terracotta",
+	"rarity": "RARE",
+	"amount": {"min": 4,"max": 16},
+	"weightMult": 0.01,
+	"unitWorth": 500
+	},
+"kiln_rews_botany_pot_basic": {
+	"type": "item",
+	"content": "#botanypots:basic_botany_pots",
+	"rarity": "RARE",
+	"amount": {"min": 1,"max": 4},
+	"weightMult": 0.1,
+	"unitWorth": 2000
+	},
+"kiln_rews_botany_pot_hopper": {
+	"type": "item",
+	"content": "#botanypots:hopper_botany_pots",
+	"rarity": "EPIC",
+	"amount": {"min": 1,"max": 4},
+	"weightMult": 0.05,
+	"unitWorth": 5000
+	}
+
+
+
+	}
+
+}

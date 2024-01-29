@@ -1,0 +1,4 @@
+{
+	"objectives": ["coremeat1raw_obj", "_obj_money"],
+	"rewards": ["coremeat1raw_rew", "coremeat2jerky_rew", "_rew_money", "_all_rews"]
+}

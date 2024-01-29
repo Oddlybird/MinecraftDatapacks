@@ -1,0 +1,5 @@
+{
+	"name": "Shipwright",
+	"objectives": ["_all_objs", "shipwright_objs"],
+	"rewards": ["_all_rews", "shipwright_rews"]
+}

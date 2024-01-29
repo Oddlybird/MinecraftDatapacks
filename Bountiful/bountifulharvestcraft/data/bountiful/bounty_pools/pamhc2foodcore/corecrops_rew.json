@@ -1,0 +1,169 @@
+{
+"content": {
+
+"crop_beetroot": {
+	"type": "item",
+	"content": "minecraft:beetroot",
+	"amount": {"min": 4, "max": 16},
+	"unitWorth": 500,
+	"weightMult": 0.5},
+"crop_carrot": {
+	"type": "item",
+	"content": "minecraft:carrot",
+	"amount": {"min": 4, "max": 16},
+	"unitWorth": 500,
+	"weightMult": 0.5},
+"crop_potato": {
+	"type": "item",
+	"content": "minecraft:potato",
+	"amount": {"min": 4, "max": 16},
+	"unitWorth": 500,
+	"weightMult": 0.5},
+"crop_cocoa": {
+	"type": "item",
+	"content": "minecraft:cocoa_beans",
+	"amount": {"min": 4, "max": 16},
+	"unitWorth": 1500,
+	"weightMult": 0.1},
+"crop_wheat": {
+	"type": "item",
+	"content": "minecraft:wheat",
+	"amount": {"min": 4, "max": 16},
+	"unitWorth": 100,
+	"weightMult": 0.5},
+"crop_apple": {
+	"type": "item",
+	"content": "minecraft:apple",
+	"amount": {"min": 4, "max": 16},
+	"unitWorth": 500,
+	"weightMult": 0.2},
+"crop_beetrootseeds": {
+	"type": "item",
+	"content": "minecraft:beetroot_seeds",
+	"amount": {"min": 4, "max": 16},
+	"unitWorth": 500,
+	"weightMult": 0.1},
+"crop_wheatseeds": {
+	"type": "item",
+	"content": "minecraft:wheatseeds",
+	"amount": {"min": 4, "max": 16},
+	"unitWorth": 50,
+	"weightMult": 0.1},
+"crop_pumpkinseeds": {
+	"type": "item",
+	"content": "minecraft:pumpkin_seeds",
+	"amount": {"min": 4, "max": 16},
+	"unitWorth": 200,
+	"weightMult": 0.1},
+"crop_melonseeds": {
+	"type": "item",
+	"content": "minecraft:melon_seeds",
+	"amount": {"min": 4, "max": 16},
+	"unitWorth": 200,
+	"weightMult": 0.1},
+"crop_chorusfruit": {
+	"type": "item",
+	"content": "minecraft:chorus_fruit",
+	"amount": {"min": 4, "max": 16},
+	"unitWorth": 5000,
+	"weightMult": 0.001},
+"crop_glow_berries": {
+	"type": "item",
+	"content": "minecraft:glow_berries",
+	"amount": {"min": 4, "max": 16},
+	"unitWorth": 1500,
+	"weightMult": 0.1},
+"crop_honey_bottle": {
+	"type": "item",
+	"content": "minecraft:honey_bottle",
+	"amount": {"min": 4, "max": 16},
+	"unitWorth": 1000,
+	"weightMult": 0.1},
+"crop_sugar": {
+	"type": "item",
+	"content": "minecraft:sugar",
+	"amount": {"min": 4, "max": 16},
+	"unitWorth": 250,
+	"weightMult": 0.1},
+"crop_sugarcane": {
+	"type": "item",
+	"content": "minecraft:sugar_cane",
+	"amount": {"min": 4, "max": 16},
+	"unitWorth": 250,
+	"weightMult": 0.1},
+"crop_sweetberries": {
+	"type": "item",
+	"content": "minecraft:sweet_berries",
+	"amount": {"min": 4, "max": 16},
+	"unitWorth": 200,
+	"weightMult": 0.25},
+"crop_cactus": {
+	"type": "item",
+	"content": "minecraft:cactus",
+	"amount": {"min": 4, "max": 16},
+	"unitWorth": 250,
+	"weightMult": 0.1},
+"crop_mushroombrown": {
+	"type": "item",
+	"content": "minecraft:brown_mushroom",
+	"amount": {"min": 4, "max": 16},
+	"unitWorth": 250,
+	"weightMult": 0.1},
+"crop_mushroomred": {
+	"type": "item",
+	"content": "minecraft:red_mushroom",
+	"amount": {"min": 4, "max": 16},
+	"unitWorth": 250,
+	"weightMult": 0.1},
+"crop_kelp": {
+	"type": "item",
+	"content": "minecraft:kelp",
+	"amount": {"min": 4, "max": 16},
+	"unitWorth": 50,
+	"weightMult": 0.1},
+"crop_pumpkin": {
+	"type": "item",
+	"content": "minecraft:pumpkin",
+	"amount": {"min": 4, "max": 16},
+	"unitWorth": 250,
+	"weightMult": 0.1},
+"crop_melon": {
+	"type": "item",
+	"content": "minecraft:melon",
+	"amount": {"min": 4, "max": 16},
+	"unitWorth": 250,
+	"weightMult": 0.1},
+"crop_bamboo": {
+	"type": "item",
+	"content": "minecraft:bamboo",
+	"amount": {"min": 4, "max": 16},
+	"unitWorth": 250,
+	"weightMult": 0.1},
+"crop_croptag": {
+	"type": "item",
+	"content": "#forge:crops",
+	"amount": {"min": 4, "max": 16},
+	"unitWorth": 250,
+	"weightMult": 0.4},
+"crop_fruittag": {
+	"type": "item",
+	"content": "#forge:fruits",
+	"amount": {"min": 4, "max": 16},
+	"unitWorth": 250,
+	"weightMult": 0.4},
+"crop_mushroomtag": {
+	"type": "item",
+	"content": "#forge:mushrooms",
+	"amount": {"min": 4, "max": 16},
+	"unitWorth": 500,
+	"weightMult": 0.1},
+"crop_vegtag": {
+	"type": "item",
+	"content": "#forge:vegetables",
+	"amount": {"min": 4, "max": 16},
+	"unitWorth": 250,
+	"weightMult": 0.4}
+
+
+	}
+}

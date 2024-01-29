@@ -1,0 +1,178 @@
+{
+	"content": {
+
+"mason_rew_scaffold": {
+	"type": "item",
+	"content": "minecraft:scaffolding",
+	"rarity": "RARE",
+	"amount": {"min": 4,"max": 8},
+	"unitWorth": 500
+	},
+"mason_rew_mud_brick": {
+	"type": "item",
+	"content": "minecraft:mud_bricks",
+	"rarity": "COMMON",
+	"amount": {"min": 4,"max": 64},
+	"unitWorth": 50
+	},
+"mason_rew_andesite": {
+	"type": "item",
+	"content": "minecraft:andesite",
+	"rarity": "UNCOMMON",
+	"amount": {"min": 4,"max": 32},
+	"unitWorth": 100
+	},
+"mason_rew_diorite": {
+	"type": "item",
+	"content": "minecraft:diorite",
+	"rarity": "UNCOMMON",
+	"amount": {"min": 4,"max": 32},
+	"unitWorth": 100
+	},
+"mason_rew_granite": {
+	"type": "item",
+	"content": "minecraft:granite",
+	"rarity": "UNCOMMON",
+	"amount": {"min": 4,"max": 32},
+	"unitWorth": 100
+	},
+"mason_rew_stone_brick": {
+	"type": "item",
+	"content": "minecraft:stone_bricks",
+	"rarity": "UNCOMMON",
+	"amount": {"min": 4,"max": 32},
+	"unitWorth": 150
+	},
+"mason_rew_stone": {
+	"type": "item",
+	"content": "minecraft:stone",
+	"rarity": "UNCOMMON",
+	"amount": {"min": 4,"max": 32},
+	"unitWorth": 150
+	},
+"mason_rew_smooth_stone": {
+	"type": "item",
+	"content": "minecraft:smooth_stone",
+	"rarity": "RARE",
+	"amount": {"min": 4,"max": 32},
+	"unitWorth": 250
+	},
+"mason_rew_bricks": {
+	"type": "item",
+	"content": "minecraft:bricks",
+	"rarity": "UNCOMMON",
+	"amount": {"min": 4,"max": 32},
+	"unitWorth": 200
+	},
+"mason_rew_mossy_cobble": {
+	"type": "item",
+	"content": "minecraft:mossy_cobblestone",
+	"rarity": "RARE",
+	"amount": {"min": 4,"max": 32},
+	"unitWorth": 250
+	},
+"mason_rew_polished_andesite": {
+	"type": "item",
+	"content": "minecraft:polished_andesite",
+	"rarity": "RARE",
+	"amount": {"min": 4,"max": 32},
+	"unitWorth": 250
+	},
+"mason_rew_polished_diorite": {
+	"type": "item",
+	"content": "minecraft:polished_diorite",
+	"rarity": "RARE",
+	"amount": {"min": 4,"max": 32},
+	"unitWorth": 250
+	},
+"mason_rew_polished_granite": {
+	"type": "item",
+	"content": "minecraft:polished_granite",
+	"rarity": "RARE",
+	"amount": {"min": 4,"max": 32},
+	"unitWorth": 250
+	},
+"mason_rew_cobbled_deepslate": {
+	"type": "item",
+	"content": "minecraft:cobbled_deepslate",
+	"rarity": "RARE",
+	"amount": {"min": 4,"max": 32},
+	"unitWorth": 500
+	},
+"mason_rew_mossy_stone_brick": {
+	"type": "item",
+	"content": "minecraft:mossy_stone_bricks",
+	"rarity": "EPIC",
+	"amount": {"min": 4,"max": 32},
+	"unitWorth": 500
+	},
+"mason_rew_deepslate_bricks": {
+	"type": "item",
+	"content": "minecraft:deepslate_bricks",
+	"rarity": "EPIC",
+	"amount": {"min": 4,"max": 32},
+	"unitWorth": 750
+	},
+"mason_rew_deepslate_tiles": {
+	"type": "item",
+	"content": "minecraft:deepslate_tiles",
+	"rarity": "EPIC",
+	"amount": {"min": 4,"max": 32},
+	"unitWorth": 750
+	},
+"mason_rew_polished_deepslate": {
+	"type": "item",
+	"content": "minecraft:polished_deepslate",
+	"rarity": "EPIC",
+	"amount": {"min": 4,"max": 32},
+	"unitWorth": 1000
+	},
+"mason_rew_basalt": {
+	"type": "item",
+	"content": "minecraft:basalt",
+	"rarity": "RARE",
+	"amount": {"min": 4,"max": 32},
+	"unitWorth": 250
+	},
+"mason_rew_polished_basalt": {
+	"type": "item",
+	"content": "minecraft:polished_basalt",
+	"rarity": "EPIC",
+	"amount": {"min": 4,"max": 32},
+	"unitWorth": 500
+	},
+"mason_rew_tuff": {
+	"type": "item",
+	"content": "minecraft:tuff",
+	"rarity": "EPIC",
+	"amount": {"min": 4,"max": 32},
+	"unitWorth": 250
+	},
+"mason_rew_deepslate": {
+	"type": "item",
+	"content": "minecraft:deepslate",
+	"rarity": "EPIC",
+	"amount": {"min": 4,"max": 32},
+	"unitWorth": 250
+	},
+"mason_rew_calcite": {
+	"type": "item",
+	"content": "minecraft:calcite",
+	"rarity": "EPIC",
+	"amount": {"min": 4,"max": 32},
+	"unitWorth": 250
+	},
+"mason_rew_stonecutter": {
+	"type": "item",
+	"content": "minecraft:stonecutter",
+	"rarity": "LEGENDARY",
+	"amount": {"min": 1,"max": 1},
+	"unitWorth": 5000
+	}
+
+
+
+
+	}
+
+}

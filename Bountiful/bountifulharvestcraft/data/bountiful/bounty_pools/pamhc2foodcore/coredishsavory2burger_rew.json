@@ -1,0 +1,64 @@
+{
+"content": {
+
+"savory_baconcheeseburger": {
+	"type": "item",
+	"content": "pamhc2foodcore:baconcheeseburgeritem",
+	"amount": {"min": 1, "max": 8},
+	"unitWorth": 1000,
+	"weightMult": 0.07},
+"savory_basiccheeseburger": {
+	"type": "item",
+	"content": "pamhc2foodcore:baconcheeseburgeritem",
+	"amount": {"min": 1, "max": 8},
+	"unitWorth": 500,
+	"weightMult": 0.1},
+"savory_basicchickensandwich": {
+	"type": "item",
+	"content": "pamhc2foodcore:basicchickensandwichitem",
+	"amount": {"min": 1, "max": 8},
+	"unitWorth": 250,
+	"weightMult": 0.1},
+"savory_basicfishsand": {
+	"type": "item",
+	"content": "pamhc2foodcore:basicfishsandwichitem",
+	"amount": {"min": 1, "max": 8},
+	"unitWorth": 250,
+	"weightMult": 0.1},
+"savory_basichamburger": {
+	"type": "item",
+	"content": "pamhc2foodcore:basichamburgeritem",
+	"amount": {"min": 1, "max": 8},
+	"unitWorth": 200,
+	"weightMult": 0.1},
+"savory_fishandchips": {
+	"type": "item",
+	"content": "pamhc2foodcore:fishandchipsitem",
+	"amount": {"min": 1, "max": 8},
+	"unitWorth": 250,
+	"weightMult": 0.1},
+"savory_fishsticks": {
+	"type": "item",
+	"content": "pamhc2foodcore:fishsticksitem",
+	"amount": {"min": 1, "max": 8},
+	"unitWorth": 200,
+	"weightMult": 0.1},
+"savory_epicbacon": {
+	"type": "item",
+	"content": "pamhc2foodcore:epicbaconitem",
+	"amount": {"min": 1, "max": 4},
+	"unitWorth": 2500,
+	"weightMult": 0.01},
+"savory_hotdog": {
+	"type": "item",
+	"content": "pamhc2foodcore:hotdogitem",
+	"amount": {"min": 1, "max": 8},
+	"unitWorth": 200,
+	"weightMult": 0.1}
+
+
+
+
+
+	}
+}

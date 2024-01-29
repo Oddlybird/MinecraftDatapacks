@@ -1,0 +1,61 @@
+{
+"content": {
+
+"savory_grilledcheeseitem": {
+	"type": "item",
+	"content": "pamhc2foodcore:grilledcheeseitem",
+	"amount": {"min": 1, "max": 8},
+	"unitWorth": 250,
+	"weightMult": 0.1},
+"savory_chickendinner": {
+	"type": "item",
+	"content": "pamhc2foodcore:chickendinneritem",
+	"amount": {"min": 1, "max": 8},
+	"unitWorth": 1000,
+	"weightMult": 0.1},
+"savory_friedchicken": {
+	"type": "item",
+	"content": "pamhc2foodcore:friedchickenitem",
+	"amount": {"min": 1, "max": 8},
+	"unitWorth": 500,
+	"weightMult": 0.1},
+"savory_chickennugget": {
+	"type": "item",
+	"content": "pamhc2foodcore:chickennuggetitem",
+	"amount": {"min": 1, "max": 8},
+	"unitWorth": 150,
+	"weightMult": 0.1},
+"savory_chickenpotpie": {
+	"type": "item",
+	"content": "pamhc2foodcore:chickenpotpieitem",
+	"amount": {"min": 1, "max": 8},
+	"unitWorth": 200,
+	"weightMult": 0.1},
+"savory_baconandeggs": {
+	"type": "item",
+	"content": "pamhc2foodcore:baconandeggs",
+	"amount": {"min": 1, "max": 8},
+	"unitWorth": 250,
+	"weightMult": 0.1},
+"savory_boiledegg": {
+	"type": "item",
+	"content": "pamhc2foodcore:boiledeggitem",
+	"amount": {"min": 1, "max": 8},
+	"unitWorth": 100,
+	"weightMult": 0.05},
+"savory_scrambledegg": {
+	"type": "item",
+	"content": "pamhc2foodcore:scrambledeggitem",
+	"amount": {"min": 1, "max": 8},
+	"unitWorth": 100,
+	"weightMult": 0.05},
+"savory_friedegg": {
+	"type": "item",
+	"content": "pamhc2foodcore:friedeggitem",
+	"amount": {"min": 1, "max": 8},
+	"unitWorth": 100,
+	"weightMult": 0.05}
+
+
+	}
+}

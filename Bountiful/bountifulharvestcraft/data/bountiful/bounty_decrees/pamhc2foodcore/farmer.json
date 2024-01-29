@@ -1,0 +1,4 @@
+{
+	"objectives": ["corebasic1_obj", "_obj_money", "corecropseeds_obj", "corecrops_obj"],
+	"rewards": ["corebasic1_rew", "corebasic2_rew", "_rew_money", "corecrops_rew", "corecropseeds_rew", "_all_rews"]
+}

@@ -1,0 +1,160 @@
+{
+	"content": {
+
+		"meat_chicken": {
+			"type": "item",
+			"content": "minecraft:chicken",
+			"amount": {"min": 2,"max": 16},
+			"forbids": [{"type": "item", "content": "minecraft:chicken"}],
+			"weightMult": 0.5,
+			"unitWorth": 70
+		},
+
+		"meat_egg": {
+			"type": "item",
+			"content": "minecraft:egg",
+			"amount": {"min": 4, "max": 32},
+			"weightMult": 0.5,
+			"unitWorth": 50
+		},
+
+		"meat_porkchop": {
+			"type": "item",
+			"content": "minecraft:porkchop",
+			"amount": {"min": 2,"max": 16},
+			"weightMult": 0.5,
+			"unitWorth": 145
+		},
+
+		"meat_rabbit": {
+			"type": "item",
+			"content": "minecraft:rabbit",
+			"amount": {"min": 1,"max": 4},
+			"weightMult": 0.5,
+			"unitWorth": 250
+		},
+
+		"meat_mutton": {
+			"type": "item",
+			"content": "minecraft:mutton",
+			"amount": {"min": 3,"max": 16},
+			"weightMult": 0.5,
+			"unitWorth": 145
+		},
+
+		"meat_beef": {
+			"type": "item",
+			"content": "minecraft:beef",
+			"amount": {"min": 2,"max": 24},
+			"weightMult": 0.5,
+			"unitWorth": 100
+		},
+
+		"meat_groundbeef": {
+			"type": "item",
+			"content": "pamhc2foodcore.groundbeefitem",
+			"amount": {"min": 4,"max": 16},
+			"weightMult": 0.05,
+			"unitWorth": 100
+		},
+		"meat_groundchicken": {
+			"type": "item",
+			"content": "pamhc2foodcore.groundchickenitem",
+			"amount": {"min": 4,"max": 16},
+			"weightMult": 0.05,
+			"unitWorth": 100
+		},
+		"meat_groundfish": {
+			"type": "item",
+			"content": "pamhc2foodcore.groundfishitem",
+			"amount": {"min": 4,"max": 16},
+			"weightMult": 0.05,
+			"unitWorth": 100
+		},
+		"meat_groundmutton": {
+			"type": "item",
+			"content": "pamhc2foodcore.groundmuttonitem",
+			"amount": {"min": 4,"max": 16},
+			"weightMult": 0.05,
+			"unitWorth": 100
+		},
+		"meat_groundpork": {
+			"type": "item",
+			"content": "pamhc2foodcore.groundporkitem",
+			"amount": {"min": 4,"max": 16},
+			"weightMult": 0.05,
+			"unitWorth": 100
+		},
+		"meat_groundrabbit": {
+			"type": "item",
+			"content": "pamhc2foodcore.groundrabbititem",
+			"amount": {"min": 4,"max": 16},
+			"weightMult": 0.05,
+			"unitWorth": 100
+		},
+		"meat_groundbeef": {
+			"type": "item",
+			"content": "pamhc2foodcore.groundbeefitem",
+			"amount": {"min": 4,"max": 16},
+			"weightMult": 0.05,
+			"unitWorth": 100
+		},
+		"meat_rawcod": {
+			"type": "item",
+			"content": "minecraft:cod",
+			"amount": {"min": 4,"max": 16},
+			"weightMult": 0.25,
+			"unitWorth": 150
+		},
+		"meat_rawsalmon": {
+			"type": "item",
+			"content": "minecraft:salmon",
+			"amount": {"min": 4,"max": 16},
+			"weightMult": 0.25,
+			"unitWorth": 150
+		},
+		"meat_tropic": {
+			"type": "item",
+			"content": "minecraft:tropical_fish",
+			"amount": {"min": 4,"max": 16},
+			"weightMult": 0.05,
+			"unitWorth": 500
+		},
+		"meat_pufferfish": {
+			"type": "item",
+			"content": "minecraft:pufferfish",
+			"amount": {"min": 1,"max": 4},
+			"weightMult": 0.01,
+			"unitWorth": 1000
+		},
+		"meat_fishtag": {
+			"type": "item",
+			"content": "#forge:fishes",
+			"amount": {"min": 1,"max": 4},
+			"weightMult": 0.01,
+			"unitWorth": 100},
+		"meat_eggtag": {
+			"type": "item",
+			"content": "#forge:egg",
+			"amount": {"min": 1,"max": 4},
+			"weightMult": 0.01,
+			"unitWorth": 100},
+		"meat_groundtag": {
+			"type": "item",
+			"content": "#forge:groundmeats",
+			"amount": {"min": 1,"max": 4},
+			"weightMult": 0.01,
+			"unitWorth": 200},
+		"meat_rawtag": {
+			"type": "item",
+			"content": "#forge:rawmeats",
+			"amount": {"min": 1,"max": 4},
+			"weightMult": 0.01,
+			"unitWorth": 250}
+
+
+
+
+
+	}
+}

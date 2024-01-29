@@ -1,0 +1,51 @@
+{
+	"content": {
+
+		"basic_condiment": {
+			"type": "item",
+			"content": "#forge:condiments",
+			"amount": {"min": 4, "max": 16},
+			"unitWorth": 500,
+			"weightMult": 0.2
+		},
+		"basic_caramel": {
+			"type": "item",
+			"content": "pamhc2foodcore:caramelitem",
+			"amount": {"min": 4, "max": 16},
+			"unitWorth": 800,
+			"weightMult": 0.2
+		},
+		"basic_cocoap": {
+			"type": "item",
+			"content": "pamhc2foodcore:cocoapowderitem",
+			"amount": {"min": 4, "max": 16},
+			"unitWorth": 500,
+			"weightMult": 0.1
+		},
+		"basic_chocbar": {
+			"type": "item",
+			"content": "pamhc2foodcore:chocolatebaritem",
+			"amount": {"min": 4, "max": 16},
+			"unitWorth": 800,
+			"weightMult": 0.1
+		},
+		"basic_icecream": {
+			"type": "item",
+			"content": "pamhc2foodcore:icecreamitem",
+			"amount": {"min": 4, "max": 16},
+			"unitWorth": 2000,
+			"weightMult": 0.01
+		},
+		"basic_yogurt": {
+			"type": "item",
+			"content": "pamhc2foodcore:cocoapowderitem",
+			"amount": {"min": 4, "max": 16},
+			"unitWorth": 1000,
+			"weightMult": 0.2
+		}
+
+
+
+
+	}
+}

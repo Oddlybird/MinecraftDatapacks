@@ -1,0 +1,123 @@
+{
+	"content": {
+
+		"meat_beefjerky": {
+			"type": "item",
+			"rarity": "COMMON",
+			"content": "pamhc2foodcore.beefjerkyitem",
+			"amount": {"min": 4,"max": 16},
+			"weightMult": 0.1,
+			"unitWorth": 250
+		},
+		"meat_chickenjerky": {
+			"type": "item",
+			"rarity": "COMMON",
+			"content": "pamhc2foodcore.chickenjerkyitem",
+			"amount": {"min": 4,"max": 16},
+			"weightMult": 0.1,
+			"unitWorth": 250
+		},
+		"meat_fishjerky": {
+			"type": "item",
+			"rarity": "COMMON",
+			"content": "pamhc2foodcore.fishjerkyitem",
+			"amount": {"min": 4,"max": 16},
+			"weightMult": 0.1,
+			"unitWorth": 250
+		},
+		"meat_muttonjerky": {
+			"type": "item",
+			"rarity": "COMMON",
+			"content": "pamhc2foodcore.muttonjerkyitem",
+			"amount": {"min": 4,"max": 16},
+			"weightMult": 0.1,
+			"unitWorth": 250
+		},
+		"meat_porkjerky": {
+			"type": "item",
+			"rarity": "COMMON",
+			"content": "pamhc2foodcore.porkjerkyitem",
+			"amount": {"min": 4,"max": 16},
+			"weightMult": 0.1,
+			"unitWorth": 250
+		},
+		"meat_rabbitjerky": {
+			"type": "item",
+			"rarity": "COMMON",
+			"content": "pamhc2foodcore.rabbitjerkyitem",
+			"amount": {"min": 4,"max": 16},
+			"weightMult": 0.1,
+			"unitWorth": 250
+		},
+		"meat_chocbacon": {
+			"type": "item",
+			"rarity": "EPIC",
+			"content": "pamhc2foodcore.chocolatebaconitem",
+			"amount": {"min": 1,"max": 8},
+			"weightMult": 0.02,
+			"unitWorth": 2500
+		},
+		"meat_meatloaf": {
+			"type": "item",
+			"rarity": "COMMON",
+			"content": "pamhc2foodcore.meatloafitem",
+			"amount": {"min": 4,"max": 16},
+			"weightMult": 0.1,
+			"unitWorth": 250
+		},
+		"meat_cookedgroundbeef": {
+			"type": "item",
+			"content": "pamhc2foodcore.cookedgroundbeefitem",
+			"amount": {"min": 4,"max": 16},
+			"weightMult": 0.005,
+			"unitWorth": 175
+		},
+		"meat_cookedgroundchicken": {
+			"type": "item",
+			"content": "pamhc2foodcore.cookedgroundchickenitem",
+			"amount": {"min": 4,"max": 16},
+			"weightMult": 0.005,
+			"unitWorth": 175
+		},
+		"meat_cookedgroundfish": {
+			"type": "item",
+			"content": "pamhc2foodcore.cookedgroundfishitem",
+			"amount": {"min": 4,"max": 16},
+			"weightMult": 0.005,
+			"unitWorth": 175
+		},
+		"meat_cookedgroundmutton": {
+			"type": "item",
+			"content": "pamhc2foodcore.cookedgroundmuttonitem",
+			"amount": {"min": 4,"max": 16},
+			"weightMult": 0.005,
+			"unitWorth": 175
+		},
+		"meat_cookedgroundpork": {
+			"type": "item",
+			"content": "pamhc2foodcore.cookedgroundporkitem",
+			"amount": {"min": 4,"max": 16},
+			"weightMult": 0.005,
+			"unitWorth": 175
+		},
+		"meat_cookedgroundrabbit": {
+			"type": "item",
+			"content": "pamhc2foodcore.cookedgroundrabbititem",
+			"amount": {"min": 4,"max": 16},
+			"weightMult": 0.005,
+			"unitWorth": 175
+		},
+		"meat_cookedgroundbeef": {
+			"type": "item",
+			"content": "pamhc2foodcore.cookedgroundbeefitem",
+			"amount": {"min": 4,"max": 16},
+			"weightMult": 0.005,
+			"unitWorth": 175
+		}
+
+
+
+
+
+	}
+}

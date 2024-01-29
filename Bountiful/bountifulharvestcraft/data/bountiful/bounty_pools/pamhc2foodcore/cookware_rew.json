@@ -1,0 +1,113 @@
+{
+	"content": {
+
+		"cookware_bakeware": {
+			"type": "item",
+			"content": "pamhc2foodcore:bakewareitem",
+			"amount": {"min": 1, "max": 1},
+			"unitWorth": 1000,
+			"weightMult": 1
+		},
+		"cookware_cuttingboard": {
+			"type": "item",
+			"content": "pamhc2foodcore:cuttingboarditem",
+			"amount": {"min": 1, "max": 1},
+			"unitWorth": 500,
+			"weightMult": 1
+		},
+		"cookware_grinder": {
+			"type": "item",
+			"content": "pamhc2foodcore:grinderitem",
+			"amount": {"min": 1, "max": 1},
+			"unitWorth": 500,
+			"weightMult": 1
+		},
+		"cookware_juicer": {
+			"type": "item",
+			"content": "pamhc2foodcore:juiceritem",
+			"amount": {"min": 1, "max": 1},
+			"unitWorth": 1000,
+			"weightMult": 1
+		},
+		"cookware_mixingbowl": {
+			"type": "item",
+			"content": "pamhc2foodcore:mixingbowlitem",
+			"amount": {"min": 1, "max": 3},
+			"unitWorth": 300,
+			"weightMult": 1
+		},
+		"cookware_pot": {
+			"type": "item",
+			"content": "pamhc2foodcore:potitem",
+			"amount": {"min": 1, "max": 1},
+			"unitWorth": 1500,
+			"weightMult": 1
+		},
+		"cookware_roller": {
+			"type": "item",
+			"content": "pamhc2foodcore:rolleritem",
+			"amount": {"min": 1, "max": 2},
+			"unitWorth": 500,
+			"weightMult": 1
+		},
+		"cookware_saucepan": {
+			"type": "item",
+			"content": "pamhc2foodcore:saucepanitem",
+			"amount": {"min": 1, "max": 1},
+			"unitWorth": 1000,
+			"weightMult": 1
+		},
+		"cookware_skillet": {
+			"type": "item",
+			"content": "pamhc2foodcore:skilletitem",
+			"amount": {"min": 1, "max": 1},
+			"unitWorth": 1000,
+			"weightMult": 1
+		},
+		"cookware_bowl": {
+			"type": "item",
+			"content": "minecraft:bowl",
+			"amount": {"min": 1, "max": 16},
+			"unitWorth": 100,
+			"weightMult": 1
+		},
+		"cookware_glass_bottle": {
+			"type": "item",
+			"content": "minecraft:glass_bottle",
+			"amount": {"min": 1, "max": 16},
+			"unitWorth": 300,
+			"weightMult": 1
+		},
+		"cookware_bucket": {
+			"type": "item",
+			"content": "minecraft:bucket",
+			"amount": {"min": 1, "max": 16},
+			"unitWorth": 1500,
+			"weightMult": 0.1
+		},
+		"cookware_stick": {
+			"type": "item",
+			"content": "minecraft:stick",
+			"amount": {"min": 1, "max": 64},
+			"unitWorth": 10,
+			"weightMult": 0.2
+		},
+		"cookware_paper": {
+			"type": "item",
+			"content": "minecraft:paper",
+			"amount": {"min": 1, "max": 64},
+			"unitWorth": 100,
+			"weightMult": 0.2
+		},
+		"cookware_string": {
+			"type": "item",
+			"content": "minecraft:string",
+			"amount": {"min": 1, "max": 16},
+			"unitWorth": 200,
+			"weightMult": 0.2
+		}
+
+
+
+	}
+}

@@ -1,0 +1,67 @@
+{
+	"content": {
+
+"shipwright_rew_boat": {
+	"type": "item",
+	"content": "#minecraft:boats",
+	"rarity": "COMMON",
+	"amount": {"min": 1,"max": 3},
+	"unitWorth": 1000},
+"shipwright_rew_boat_chest": {
+	"type": "item",
+	"content": "#minecraft:chest_boats",
+	"rarity": "UNCOMMON",
+	"amount": {"min": 1,"max": 1},
+	"unitWorth": 1500},
+"shipwright_rew_lead": {
+	"type": "item",
+	"content": "minecraft:lead",
+	"rarity": "UNCOMMON",
+	"amount": {"min": 2,"max": 8},
+	"unitWorth": 1000},
+"shipwright_rew_sail": {
+	"type": "item",
+	"content": "smallships:sail",
+	"rarity": "UNCOMMON",
+	"amount": {"min": 1,"max": 4},
+	"unitWorth": 2000},
+"shipwright_rew_cannonball": {
+	"type": "item",
+	"content": "smallships:cannonball",
+	"rarity": "UNCOMMON",
+	"amount": {"min": 4,"max": 16},
+	"unitWorth": 500},
+"shipwright_rew_cog": {
+	"type": "item",
+	"content": "#smallships:cogs",
+	"rarity": "UNCOMMON",
+	"amount": {"min": 1,"max": 1},
+	"unitWorth": 5000},
+"shipwright_rew_brigg": {
+	"type": "item",
+	"content": "#smallships:briggs",
+	"rarity": "RARE",
+	"amount": {"min": 1,"max": 1},
+	"unitWorth": 10000},
+"shipwright_rew_cannon": {
+	"type": "item",
+	"content": "smallships:cannon",
+	"rarity": "EPIC",
+	"amount": {"min": 1,"max": 1},
+	"unitWorth": 5000},
+"shipwright_rew_galley": {
+	"type": "item",
+	"content": "#smallships:galleys",
+	"rarity": "EPIC",
+	"amount": {"min": 1,"max": 1},
+	"unitWorth": 16000},
+"shipwright_rew_allships": {
+	"type": "item",
+	"content": "#smallships:ships",
+	"rarity": "LEGENDARY",
+	"amount": {"min": 1,"max": 1},
+	"unitWorth": 16000}
+
+	}
+
+}

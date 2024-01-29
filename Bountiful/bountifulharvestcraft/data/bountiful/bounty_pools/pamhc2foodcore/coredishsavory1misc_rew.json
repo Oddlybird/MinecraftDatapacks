@@ -1,0 +1,94 @@
+{
+"content": {
+
+"savory_bakedveg": {
+	"type": "item",
+	"content": "pamhc2foodcore:bakedvegetablemedleyitem",
+	"amount": {"min": 4, "max": 16},
+	"unitWorth": 250,
+	"weightMult": 0.1},
+"savory_fruitcrumb": {
+	"type": "item",
+	"content": "pamhc2foodcore:fruitcrumbleitem",
+	"amount": {"min": 4, "max": 16},
+	"unitWorth": 250,
+	"weightMult": 0.1},
+"savory_fruitpunch": {
+	"type": "item",
+	"content": "pamhc2foodcore:fruitpunchitem",
+	"amount": {"min": 4, "max": 16},
+	"unitWorth": 150,
+	"weightMult": 0.05},
+"savory_fruitsalad": {
+	"type": "item",
+	"content": "pamhc2foodcore:fruitsaladitem",
+	"amount": {"min": 4, "max": 16},
+	"unitWorth": 200,
+	"weightMult": 0.1},
+"savory_meatloaf": {
+	"type": "item",
+	"content": "pamhc2foodcore:meatloafitem",
+	"amount": {"min": 4, "max": 16},
+	"unitWorth": 250,
+	"weightMult": 0.1},
+"savory_cracker": {
+	"type": "item",
+	"content": "pamhc2foodcore:crackeritem",
+	"amount": {"min": 4, "max": 16},
+	"unitWorth": 50,
+	"weightMult": 0.1},
+"savory_noodlesoup": {
+	"type": "item",
+	"content": "pamhc2foodcore:noodlesoupitem",
+	"amount": {"min": 4, "max": 16},
+	"unitWorth": 250,
+	"weightMult": 0.1},
+"savory_roastedsunflowerseed": {
+	"type": "item",
+	"content": "pamhc2foodcore:roastedsunflowerseedsitem",
+	"amount": {"min": 4, "max": 16},
+	"unitWorth": 150,
+	"weightMult": 0.01},
+"savory_softpretzel": {
+	"type": "item",
+	"content": "pamhc2foodcore:softpretzelitem",
+	"amount": {"min": 4, "max": 16},
+	"unitWorth": 250,
+	"weightMult": 0.1},
+"savory_sunflowerseeds": {
+	"type": "item",
+	"content": "pamhc2foodcore:sunflowerseedsitem",
+	"amount": {"min": 4, "max": 16},
+	"unitWorth": 150,
+	"weightMult": 0.01},
+"savory_trailmix": {
+	"type": "item",
+	"content": "pamhc2foodcore:trailmixitem",
+	"amount": {"min": 4, "max": 16},
+	"unitWorth": 150,
+	"weightMult": 0.1},
+"savory_potroast": {
+	"type": "item",
+	"content": "pamhc2foodcore:potroastitem",
+	"amount": {"min": 4, "max": 16},
+	"unitWorth": 250,
+	"weightMult": 0.05},
+"savory_stew": {
+	"type": "item",
+	"content": "pamhc2foodcore:stewitem",
+	"amount": {"min": 4, "max": 16},
+	"unitWorth": 250,
+	"weightMult": 0.05},
+"savory_macncheese": {
+	"type": "item",
+	"content": "pamhc2foodcore:macncheeseitem",
+	"amount": {"min": 4, "max": 16},
+	"unitWorth": 250,
+	"weightMult": 0.1}
+
+
+
+
+
+	}
+}

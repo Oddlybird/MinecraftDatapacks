@@ -1,0 +1,26 @@
+{
+	"content": {
+
+"kiln_rews_botany_pot_basic": {
+	"type": "item",
+	"content": "#botanypots:basic_botany_pots",
+	"rarity": "RARE",
+	"amount": {"min": 1,"max": 4},
+	"weightMult": 0.1,
+	"unitWorth": 2000
+	},
+"kiln_rews_botany_pot_hopper": {
+	"type": "item",
+	"content": "#botanypots:hopper_botany_pots",
+	"rarity": "EPIC",
+	"amount": {"min": 1,"max": 4},
+	"weightMult": 0.05,
+	"unitWorth": 5000
+	}
+
+
+
+	}
+
+
+}

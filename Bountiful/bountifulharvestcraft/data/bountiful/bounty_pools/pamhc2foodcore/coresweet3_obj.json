@@ -1,0 +1,85 @@
+{
+"content": {
+
+"sweet_choccake": {
+	"type": "item",
+	"content": "pamhc2foodcore:chocolatecakeitem",
+	"amount": {"min": 1, "max": 4},
+	"unitWorth": 2000,
+	"weightMult": 0.01},
+"sweet_choccupcake": {
+	"type": "item",
+	"content": "pamhc2foodcore:chocolatecupcakeitem",
+	"amount": {"min": 1, "max": 4},
+	"unitWorth": 1000,
+	"weightMult": 0.01},
+"sweet_chocfudge": {
+	"type": "item",
+	"content": "pamhc2foodcore:chocolatecaramelfudgeitem",
+	"amount": {"min": 1, "max": 4},
+	"unitWorth": 1000,
+	"weightMult": 0.01},
+"sweet_chocmuffin": {
+	"type": "item",
+	"content": "pamhc2foodcore:chocolatemuffinitem",
+	"amount": {"min": 1, "max": 4},
+	"unitWorth": 500,
+	"weightMult": 0.01},
+"sweet_chocdonut": {
+	"type": "item",
+	"content": "pamhc2foodcore:chocolatedonutitem",
+	"amount": {"min": 1, "max": 4},
+	"unitWorth": 500,
+	"weightMult": 0.01},
+"sweet_chocicecream": {
+	"type": "item",
+	"content": "pamhc2foodcore:chocolateicecreamitem",
+	"amount": {"min": 1, "max": 4},
+	"unitWorth": 2000,
+	"weightMult": 0.01},
+"sweet_chocpudding": {
+	"type": "item",
+	"content": "pamhc2foodcore:chocolatepuddingitem",
+	"amount": {"min": 1, "max": 4},
+	"unitWorth": 1200,
+	"weightMult": 0.01},
+"sweet_chocroll": {
+	"type": "item",
+	"content": "pamhc2foodcore:chocolaterollitem",
+	"amount": {"min": 1, "max": 4},
+	"unitWorth": 2000,
+	"weightMult": 0.01},
+"sweet_chocyogurt": {
+	"type": "item",
+	"content": "pamhc2foodcore:chocolateyogurtitem",
+	"amount": {"min": 1, "max": 4},
+	"unitWorth": 800,
+	"weightMult": 0.01},
+"sweet_smore": {
+	"type": "item",
+	"content": "pamhc2foodcore:smores",
+	"amount": {"min": 1, "max": 16},
+	"unitWorth": 500,
+	"weightMult": 0.01},
+"sweet_gcarrot": {
+	"type": "item",
+	"content": "pamhc2foodcore:golden_carrot",
+	"amount": {"min": 1, "max": 4},
+	"unitWorth": 5000,
+	"weightMult": 0.001},
+"sweet_gapple": {
+	"type": "item",
+	"content": "pamhc2foodcore:golden_apple",
+	"amount": {"min": 1, "max": 4},
+	"unitWorth": 5000,
+	"weightMult": 0.001},
+"sweet_gappleench": {
+	"type": "item",
+	"content": "pamhc2foodcore:enchanted_golden_apple",
+	"amount": {"min": 1, "max": 4},
+	"unitWorth": 15000,
+	"weightMult": 0.001}
+
+
+	}
+}

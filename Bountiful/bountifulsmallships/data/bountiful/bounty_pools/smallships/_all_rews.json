@@ -1,0 +1,13 @@
+{
+	"content": {
+
+"shipwright_rew_lead": {
+	"type": "item",
+	"content": "minecraft:lead",
+	"rarity": "RARE",
+	"amount": {"min": 2,"max": 8},
+	"unitWorth": 1000}
+
+	}
+
+}

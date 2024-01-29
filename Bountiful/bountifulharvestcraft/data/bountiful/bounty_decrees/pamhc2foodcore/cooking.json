@@ -1,0 +1,5 @@
+{
+	"name": "Cooking",
+	"objectives": ["coredishsavory1misc_obj", "coredishsavory2burger_obj", "coredishsavory3chicken_obj", "coreside1_obj", "coreside2_obj", "coresweet1_obj", "coresweet2_obj", "coresweet3_obj"],
+	"rewards": ["_rew_money", "corebasic1_rew", "coremeat1raw_rew", "_all_rews"]
+}

@@ -1,0 +1,5 @@
+{
+	"name": "Mason",
+	"objectives": ["_all_objs", "mason_objs", "mason_rews"],
+	"rewards": ["_all_rews", "mason_rews"]
+}

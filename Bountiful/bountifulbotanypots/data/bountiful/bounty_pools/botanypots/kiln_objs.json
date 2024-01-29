@@ -1,0 +1,41 @@
+{
+	"content": {
+
+"kiln_obj_sand": {
+	"type": "item_tag",
+	"content": "forge:sand",
+	"rarity": "COMMON",
+	"amount": {"min": 4,"max": 32},
+	"weightMult": 1,
+	"unitWorth": 50
+	},
+"kiln_obj_gravel": {
+	"type": "item_tag",
+	"content": "forge:gravel",
+	"rarity": "UNCOMMON",
+	"amount": {"min": 4,"max": 32},
+	"weightMult": 1,
+	"unitWorth": 150
+	},
+"kiln_obj_dye": {
+	"type": "item_tag",
+	"content": "forge:dyes",
+	"rarity": "RARE",
+	"amount": {"min": 4,"max": 16},
+	"weightMult": 1,
+	"unitWorth": 100
+	},
+"kiln_obj_clayball": {
+	"type": "item_tag",
+	"content": "forge:clay_ball",
+	"rarity": "RARE",
+	"amount": {"min": 4,"max": 16},
+	"weightMult": 1,
+	"unitWorth": 250
+	}
+
+
+
+	}
+
+}

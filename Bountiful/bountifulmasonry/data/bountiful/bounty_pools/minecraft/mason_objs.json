@@ -1,0 +1,44 @@
+{
+	"content": {
+
+"mason_obj_cobblestone": {
+	"type": "item",
+	"content": "minecraft:cobblestone",
+	"rarity": "COMMON",
+	"amount": {"min": 8,"max": 64},
+	"unitWorth": 25
+	},
+"mason_obj_stonetag": {
+	"type": "item_tag",
+	"content": "forge:stone",
+	"rarity": "COMMON",
+	"amount": {"min": 4,"max": 32},
+	"unitWorth": 100
+	},
+"mason_obj_cobblestonetag": {
+	"type": "item_tag",
+	"content": "forge:cobblestone",
+	"rarity": "UNCOMMON",
+	"amount": {"min": 8,"max": 64},
+	"unitWorth": 50
+	},
+"mason_obj_stone_brick": {
+	"type": "item",
+	"content": "minecraft:stone_bricks",
+	"rarity": "UNCOMMON",
+	"amount": {"min": 4,"max": 32},
+	"unitWorth": 150
+	},
+"mason_obj_stone": {
+	"type": "item",
+	"content": "minecraft:stone",
+	"rarity": "UNCOMMON",
+	"amount": {"min": 4,"max": 32},
+	"unitWorth": 150
+	}
+
+
+
+	}
+
+}

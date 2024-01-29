@@ -1,0 +1,96 @@
+{
+"content": {
+
+"sweet_cookie": {
+	"type": "item",
+	"content": "minecraft:cookie",
+	"amount": {"min": 4, "max": 16},
+	"unitWorth": 100,
+	"weightMult": 0.01},
+"sweet_sugar": {
+	"type": "item",
+	"content": "minecraft:sugar",
+	"amount": {"min": 8, "max": 32},
+	"unitWorth": 250,
+	"weightMult": 0.01},
+"sweet_honey": {
+	"type": "item",
+	"content": "minecraft:honey_bottle",
+	"amount": {"min": 4, "max": 16},
+	"unitWorth": 333,
+	"weightMult": 0.1},
+"sweet_donut": {
+	"type": "item",
+	"content": "pamhc2foodcore:donutitem",
+	"amount": {"min": 1, "max": 8},
+	"unitWorth": 250,
+	"weightMult": 0.01},
+"sweet_cottoncandy": {
+	"type": "item",
+	"content": "pamhc2foodcore:cottoncandyitem",
+	"amount": {"min": 1, "max": 8},
+	"unitWorth": 250,
+	"weightMult": 0.01},
+"sweet_gummybear": {
+	"type": "item",
+	"content": "pamhc2foodcore:gummybearsitem",
+	"amount": {"min": 1, "max": 8},
+	"unitWorth": 250,
+	"weightMult": 0.01},
+"sweet_jellybeans": {
+	"type": "item",
+	"content": "pamhc2foodcore:jellybeansitem",
+	"amount": {"min": 1, "max": 8},
+	"unitWorth": 250,
+	"weightMult": 0.01},
+"sweet_jellydonut": {
+	"type": "item",
+	"content": "pamhc2foodcore:jellydonutitem",
+	"amount": {"min": 1, "max": 8},
+	"unitWorth": 250,
+	"weightMult": 0.01},
+"sweet_marshchicks": {
+	"type": "item",
+	"content": "pamhc2foodcore:marshmellowchicksitem",
+	"amount": {"min": 1, "max": 8},
+	"unitWorth": 250,
+	"weightMult": 0.01},
+"sweet_marshmellows": {
+	"type": "item",
+	"content": "pamhc2foodcore:marshmellowsitem",
+	"amount": {"min": 1, "max": 8},
+	"unitWorth": 250,
+	"weightMult": 0.02},
+"sweet_caramelapple": {
+	"type": "item",
+	"content": "pamhc2foodcore:caramelappleitem",
+	"amount": {"min": 1, "max": 8},
+	"unitWorth": 500,
+	"weightMult": 0.01},
+"sweet_caramelcupcake": {
+	"type": "item",
+	"content": "pamhc2foodcore:caramelcupcakeitem",
+	"amount": {"min": 1, "max": 8},
+	"unitWorth": 500,
+	"weightMult": 0.01},
+"sweet_caramelicecream": {
+	"type": "item",
+	"content": "pamhc2foodcore:caramelicecreamitem",
+	"amount": {"min": 1, "max": 8},
+	"unitWorth": 2500,
+	"weightMult": 0.01},
+"sweet_caramelyogurt": {
+	"type": "item",
+	"content": "pamhc2foodcore:caramelyogurtitem",
+	"amount": {"min": 1, "max": 8},
+	"unitWorth": 500,
+	"weightMult": 0.01},
+"sweet_jellytag": {
+	"type": "item",
+	"content": "#forge:jellies",
+	"amount": {"min": 1, "max": 8},
+	"unitWorth": 250,
+	"weightMult": 0.05}
+
+	}
+}

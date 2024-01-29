@@ -1,0 +1,93 @@
+{
+"content": {
+
+"side_juicetag": {
+	"type": "item_tag",
+	"content": "forge:juice",
+	"amount": {"min": 1, "max": 8},
+	"unitWorth": 250,
+	"weightMult": 0.1},
+"side_hotchoc": {
+	"type": "item",
+	"content": "pamhc2foodcore:hotchocolateitem",
+	"amount": {"min": 1, "max": 8},
+	"unitWorth": 500,
+	"weightMult": 0.01},
+"side_cookmilk": {
+	"type": "item",
+	"content": "pamhc2foodcore:cookiesandmilkitem",
+	"amount": {"min": 1, "max": 8},
+	"unitWorth": 500,
+	"weightMult": 0.01},
+"side_applesmoothie": {
+	"type": "item",
+	"content": "pamhc2foodcore:applesmoothieitem",
+	"amount": {"min": 1, "max": 8},
+	"unitWorth": 500,
+	"weightMult": 0.01},
+"side_glowsmoothie": {
+	"type": "item",
+	"content": "pamhc2foodcore:glowberrysmoothieitem",
+	"amount": {"min": 1, "max": 8},
+	"unitWorth": 500,
+	"weightMult": 0.01},
+"side_melonsmoothie": {
+	"type": "item",
+	"content": "pamhc2foodcore:melonsmoothieitem",
+	"amount": {"min": 1, "max": 8},
+	"unitWorth": 500,
+	"weightMult": 0.01},
+"side_sweetsmoothie": {
+	"type": "item",
+	"content": "pamhc2foodcore:sweetberrysmoothieitem",
+	"amount": {"min": 1, "max": 8},
+	"unitWorth": 500,
+	"weightMult": 0.01},
+"side_yogurt": {
+	"type": "item",
+	"content": "pamhc2foodcore:yogurtitem",
+	"amount": {"min": 1, "max": 8},
+	"unitWorth": 500,
+	"weightMult": 0.01},
+"side_appleyogurt": {
+	"type": "item",
+	"content": "pamhc2foodcore:appleyogurtitem",
+	"amount": {"min": 1, "max": 8},
+	"unitWorth": 500,
+	"weightMult": 0.01},
+"side_glowberryyogurt": {
+	"type": "item",
+	"content": "pamhc2foodcore:glowberryyogurtitem",
+	"amount": {"min": 1, "max": 8},
+	"unitWorth": 500,
+	"weightMult": 0.01},
+"side_pumpkinyogurt": {
+	"type": "item",
+	"content": "pamhc2foodcore:pumpkinyogurtitem",
+	"amount": {"min": 1, "max": 8},
+	"unitWorth": 500,
+	"weightMult": 0.01},
+"side_sweetyogurt": {
+	"type": "item",
+	"content": "pamhc2foodcore:sweetberryyogurtitem",
+	"amount": {"min": 1, "max": 8},
+	"unitWorth": 500,
+	"weightMult": 0.01},
+"side_caramelyogurt": {
+	"type": "item",
+	"content": "pamhc2foodcore:caramelyogurtitem",
+	"amount": {"min": 1, "max": 8},
+	"unitWorth": 500,
+	"weightMult": 0.01},
+"side_chocolateyogurt": {
+	"type": "item",
+	"content": "pamhc2foodcore:chocolateyogurtitem",
+	"amount": {"min": 1, "max": 8},
+	"unitWorth": 1000,
+	"weightMult": 0.01}
+
+
+
+
+	}
+}

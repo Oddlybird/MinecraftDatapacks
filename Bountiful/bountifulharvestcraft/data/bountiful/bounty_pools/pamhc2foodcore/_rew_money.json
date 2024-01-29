@@ -1,0 +1,53 @@
+{"content": {
+
+ "money_primary_currency": {
+   "type": "item",
+   "content": "minecraft:emerald",
+   "rarity": "COMMON",
+   "amount": {"min": 1, "max": 4},
+   "forbids": [{"type": "item", "content": "minecraft:emerald"}],
+   "weightMult": 5,
+   "unitWorth": 1000
+ },
+
+ "money_primary_currency_rare_bargain": {
+   "type": "item",
+   "rarity": "UNCOMMON",
+   "content": "minecraft:emerald",
+   "amount": {"min": 1, "max": 4},
+   "forbids": [{"type": "item", "content": "minecraft:emerald"}],
+   "weightMult": 1,
+   "unitWorth": 800
+ },
+
+ "money_prismarine_crystals": {
+   "type": "item",
+   "rarity": "EPIC",
+   "content": "minecraft:prismarine_crystals",
+   "amount": {"min": 1, "max": 16},
+   "unitWorth": 2000,
+   "weightMult": 0.05
+ },
+
+ "money_glowstone_dust": {
+   "type": "item",
+   "rarity": "RARE",
+   "content": "minecraft:glowstone_dust",
+   "amount": {"min": 1, "max": 16},
+   "unitWorth": 1000,
+   "weightMult": 0.05
+ },
+
+ "money_redstone_dust": {
+   "type": "item",
+   "rarity": "UNCOMMON",
+   "content": "minecraft:redstone_dust",
+   "amount": {"min": 1, "max": 16},
+   "unitWorth": 500,
+   "weightMult": 0.05
+ }
+
+
+
+  }
+}
